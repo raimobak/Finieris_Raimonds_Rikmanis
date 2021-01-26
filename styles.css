@@ -5,7 +5,6 @@ header
     font-size:250%;
     width: auto;
     height: auto;
-    background-color: grey;
 
     
 }
@@ -17,7 +16,6 @@ header
     font-size:250%;
     width: auto;
     height: auto;
-    background-color: grey;
 
     
 }
@@ -55,6 +53,7 @@ header
     text-align: center;
     width: 400px;
     font-size: 30px;
+    color:white;
 }
 
 #fot
@@ -65,6 +64,7 @@ header
     padding-bottom: 27px;
     border-top: 1px solid #ddd;
     zoom: 1;
+    color:white;
 }
 
 #sazina
@@ -77,5 +77,19 @@ header
     zoom: 2;
     text-align: left;
     position: relative;
+    color:white;
 
+}
+
+#logo
+{
+    float: right;
+    margin: -100px 100px 5px 5px;
+    zoom: 2;
+
+}
+
+body
+{
+    background-image: url(Img/double-bubble-dark.png);
 }
